@@ -26,7 +26,8 @@ I'm a computer science student at [@UNOESC](https://www.unoesc.edu.br/) and I lo
 ### My hobbies
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://www.arduino.cc/)
 
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianpdev)](https://github.com/cristianpdev)
 
-<img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-stats.vercel.app/api?username=cristianpdev&count_private=true&show_icons=true&hide_border=true&theme=react" href="https://github.com/cristianpdev"/>
 
-<img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=cristianpdev&layout=compact" alt="cristianpdev" />
+[![Badges](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cristianpdev&theme=vue)](https://github.com/cristianpdev)
+
