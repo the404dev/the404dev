@@ -10,6 +10,3 @@
 ### About me
 > I'm a computer science student at [@UNOESC](https://www.unoesc.edu.br/) and I love coding 💜
 ---
-[![cristianpdev](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianpdev&hide=html&layout=compact=true&theme=dracula)](https://github.com/cristianpdev/github-readme-stats) 
-
-[![cristianpdev](https://github-readme-stats.vercel.app/api?username=cristianpdev&theme=dracula&show_icons=true)](https://github.com/cristianpdev/github-readme-stats)
