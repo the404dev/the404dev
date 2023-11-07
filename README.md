@@ -13,6 +13,6 @@
    - Segurança da Informação
    - E muito mais!
 🚀 Sempre em busca de aprender e aprimorar minhas habilidades, estou constantemente trabalhando em projetos pessoais e acadêmicos. Meu objetivo é contribuir para a comunidade de código aberto e tornar o mundo da tecnologia um lugar melhor.  
-📫 Entre em contato -> [cristian404dev@pm.me](mailto:cristian404dev@pm.me)  
+📫 Entre em contato -> [cristianpenteado@protonmail.ch](mailto:cristianpenteado@protonmail.ch)  
 🔗 Conecte-se comigo no LinkedIn: [Cristian Penteado](https://www.linkedin.com/in/cristian404dev)   
 ---
