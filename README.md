@@ -1,7 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cristianpdev" alt="cristianpdev" /> </p>
 
-# Eu sou Cristian Penteado!
+# Seja bem vindo(a)!
+## Eu sou Cristian Penteado!
 
 ### Sobre:
 👨‍💻 Bacharel em Ciência da Computação e apaixonado por tecnologia!
