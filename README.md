@@ -5,15 +5,14 @@
 ## Eu sou Cristian Penteado!
 
 ### Sobre:
-👨‍💻 Bacharel em Ciência da Computação e apaixonado por tecnologia!
+👨‍💻 Bacharel em Ciência da Computação e apaixonado por tech!
 
-💡 Minha curiosidade me leva a explorar diversas áreas, incluindo:
+Sempre em busca de aprender e aprimorar minhas habilidades, estou constantemente trabalhando em projetos pessoais. 
 
-- Desenvolvimento de Software
-- Inteligência Artificial e Aprendizado de Máquina
-- Ciência de Dados
-- E muito mais! 🚀 
-Sempre em busca de aprender e aprimorar minhas habilidades, estou constantemente trabalhando em projetos pessoais e acadêmicos. Meu objetivo é contribuir para mais pessoas se conectarem com a áreas da tecnologia!
+Crio uns conteúdos sobre computação no Instagram: [@the404dev](https://www.instagram.com/the404dev/)   
+---
+Meu principal objetivo é contribuir para mais pessoas se conectarem com a áreas da tecnologia
+
 📫 Entre em contato -> [cristian404dev@gmail.com](mailto:cristian404dev@gmail.com)  
 🔗 Conecte-se comigo no LinkedIn: [Cristian Penteado](https://www.linkedin.com/in/cristian404dev)   
 ---
