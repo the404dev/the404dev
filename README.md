@@ -14,5 +14,5 @@ Crio uns conteúdos sobre computação no Instagram: [@the404dev](https://www.in
 Meu principal objetivo é contribuir para mais pessoas se conectarem com a áreas da tecnologia
 
 📫 Entre em contato -> [cristian404dev@gmail.com](mailto:cristian404dev@gmail.com)  
-🔗 Conecte-se comigo no LinkedIn: [Cristian Penteado](https://www.linkedin.com/in/cristian404dev)   
+🔗 Conecte-se comigo no LinkedIn: [Cristian Penteado](https://www.linkedin.com/in/the404dev)   
 ---
