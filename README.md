@@ -4,15 +4,22 @@
 # Seja bem vindo(a)!
 ## Eu sou Cristian Penteado!
 
-### Sobre:
-👨‍💻 Bacharel em Ciência da Computação e apaixonado por tech!
+👨‍💻 Bacharel em Ciência da Computação  
+🚀 Navegando pelo mundo tech!
 
-Sempre em busca de aprender e aprimorar minhas habilidades, estou constantemente trabalhando em projetos pessoais. 
 
-Crio uns conteúdos sobre computação no Instagram: [@the404dev](https://www.instagram.com/the404dev/)   
+Crio uns conteúdos sobre computação:  
 ---
-Meu principal objetivo é contribuir para mais pessoas se conectarem com a áreas da tecnologia
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/the404dev)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@the404dev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/the404dev/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@the404dev)
+---
 
-📫 Entre em contato -> [cristian404dev@gmail.com](mailto:cristian404dev@gmail.com)  
-🔗 Conecte-se comigo no LinkedIn: [Cristian Penteado](https://www.linkedin.com/in/the404dev)   
+Meu principal objetivo é contribuir para mais pessoas se conectarem com a área da tecnologia!
+
+📫 Conecte-se comigo:  
+---
+[![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/the404dev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristian404dev@gmail.com)
 ---
